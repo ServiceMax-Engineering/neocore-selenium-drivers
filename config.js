@@ -6,7 +6,7 @@ module.exports = {
     chrome: {
       version: '116.0.5845.96',
       arch: process.arch,
-      baseURL: 'https://chromedriver.storage.googleapis.com'
+      baseURL: 'https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing'
     },
     ie: {
       version: '3.14.0',
