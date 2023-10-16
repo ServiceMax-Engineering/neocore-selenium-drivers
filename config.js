@@ -19,7 +19,7 @@ module.exports = {
       baseURL: 'https://github.com/mozilla/geckodriver/releases/download'
     },
     chromiumedge: {
-      version: '116.0.1938.54',
+      version: '118.0.2088.46',
       arch: process.arch,
       baseURL: 'https://msedgedriver.azureedge.net',
     },
