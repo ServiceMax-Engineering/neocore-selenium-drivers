@@ -4,7 +4,7 @@ module.exports = {
   version: '3.141.59',
   drivers: {
     chrome: {
-      version: '116.0.5845.96',
+      version: '119.0.6045.105',
       arch: process.arch,
       baseURL: 'https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing'
     },
