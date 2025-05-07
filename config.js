@@ -4,7 +4,7 @@ module.exports = {
   version: '3.141.59',
   drivers: {
     chrome: {
-      version: '135.0.7049.114',
+      version: '136.0.7103.92',
       arch: process.arch,
       baseURL: 'https://storage.googleapis.com/chrome-for-testing-public'
     },
@@ -19,7 +19,7 @@ module.exports = {
       baseURL: 'https://github.com/mozilla/geckodriver/releases/download'
     },
     chromiumedge: {
-      version: '135.0.3179.98',
+      version: '136.0.3240.50',
       arch: process.arch,
       baseURL: 'https://msedgedriver.azureedge.net',
     },
